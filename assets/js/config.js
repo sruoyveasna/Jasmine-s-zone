@@ -19,7 +19,7 @@ window.APP_CONFIG = {
 
   // Telegram settings
   TELEGRAM: {
-    SELLER_USERNAME: "Morokot03", // without "@"
+    SELLER_USERNAME: "jasmineszone", // without "@"
     MODE: "dm", // "dm" or "share"
   },
 };
